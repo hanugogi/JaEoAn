@@ -15,6 +15,7 @@ class Cafeteria{
 		void updateStatus(); //Link with OpenCV
 		void addUser(int number);
 		void findTable(int number);
+		void setLastTable();
 };
 
 #endif
